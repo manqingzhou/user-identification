@@ -4,7 +4,7 @@ feature.py is used for rolling window and feature extraction
 four classification.py mean four classifiers
 add label is to label 6 users from 0 to 5
 1. Title: User Identification From Walking Activity
-	Updated Nov, 2013 , P. Casale, email: plcasale@ieee.org
+
 	
 2. Abstract: The dataset collects data from an Android smartphone positioned in the chest pocket. Accelerometer Data are collected from 6 participants walking in the wild over a predefined path. The dataset is intended for Activity Recognition research purposes. It provides challenges for identification and authentication of people using motion patterns.
 
